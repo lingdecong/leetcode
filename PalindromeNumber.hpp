@@ -1,8 +1,3 @@
-//
-// Created by jamesdcl on 1/11/16.
-//
-
-
 class Solution {
 public:
     bool isPalindrome(int x) {
